@@ -5,8 +5,10 @@ import BoxContainer from './color boxes/BoxContainer'
 function App() {
   return (
     <div className="App">
+
+      {/* state exercise */}
       {/* <CoinGame /> */}
-      <BoxContainer />
+      {/* <BoxContainer /> */}
     </div>
   );
 }
